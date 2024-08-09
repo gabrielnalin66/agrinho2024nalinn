@@ -1,0 +1,72 @@
+.body{
+    padding: 0px;
+    margin: 16px 10px;
+
+}
+
+.cabeçalho{
+
+    background-color: rgb(70, 139, 75);
+    text-align: center;
+    padding: 0px;
+}
+
+.cabeçalho-titulo{
+
+    text-align: center;
+    color: white;
+    padding: 0px;
+}
+
+.cabeçalho-imagem{
+
+    width: 50%;
+    padding: 0px;
+
+}
+
+.cabeçalho{
+
+    text-align: center;
+    padding: 0px;
+}
+
+.cabeçalho-titulo2{
+
+    text-align: center;
+    color: black;
+    padding: 0px;
+}
+
+.Convidar{
+    padding: 0px; 
+    background-color: darkgreen;
+}
+.convidar-texto1{
+    
+    text-align: center;
+    color: rgb(0, 0, 0);
+   
+
+}
+
+.convidar-texto2{
+
+    text-align: center;
+    color: black;
+    padding: 0px;
+}
+
+.texto3{
+
+    text-align: center;
+    color: black;
+    padding: 0px;
+}
+
+.subcabeçalho-img{
+
+    width: 50%;
+    padding: 0px;
+
+}
